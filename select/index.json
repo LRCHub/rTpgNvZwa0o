@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "pineapple!",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-19T16:38:33.016126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pineapple (G Jones Remix)",
+      "artist": "Eprom",
+      "has_synced": false,
+      "path": "select/01_Pineapple_(G_Jones_Remix)_Eprom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pineapple",
+      "artist": "Ty Dolla $ign feat. Gucci Mane & Quavo",
+      "has_synced": true,
+      "path": "select/02_Pineapple_Ty_Dolla_$ign_feat._Gucci_Mane_&_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pineapple (feat. Gucci Mane & Quavo)",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/03_Pineapple_(feat._Gucci_Mane_&_Quavo)_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pineapple Slice (with SG Lewis)",
+      "artist": "Tove Lo feat. SG Lewis",
+      "has_synced": true,
+      "path": "select/04_Pineapple_Slice_(with_SG_Lewis)_Tove_Lo_feat._SG_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pineapple Slice",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/05_Pineapple_Slice_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pineapple Rag",
+      "artist": "Scott Joplin",
+      "has_synced": false,
+      "path": "select/06_Pineapple_Rag_Scott_Joplin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pineapple",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/07_Pineapple_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pineapple",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/08_Pineapple_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pineapple Crush",
+      "artist": "Ramriddlz",
+      "has_synced": false,
+      "path": "select/09_Pineapple_Crush_Ramriddlz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pineapple Crush (Prod. Jaegen, Jahmal Gittens)",
+      "artist": "Ramriddlz",
+      "has_synced": false,
+      "path": "select/10_Pineapple_Crush_(Prod._Jaegen,_Jahmal_Gittens)_Ramriddlz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pineapple Face (edit)",
+      "artist": "Revenge",
+      "has_synced": false,
+      "path": "select/11_Pineapple_Face_(edit)_Revenge.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pineapple Face (Pickering & Park Remix)",
+      "artist": "Revenge",
+      "has_synced": false,
+      "path": "select/12_Pineapple_Face_(Pickering_&_Park_Remix)_Revenge.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Pineapple vs The Watermelon",
+      "artist": "Xiu Xiu",
+      "has_synced": true,
+      "path": "select/13_The_Pineapple_vs_The_Watermelon_Xiu_Xiu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pineapple Princess",
+      "artist": "Annette Funicello",
+      "has_synced": false,
+      "path": "select/14_Pineapple_Princess_Annette_Funicello.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pineapple!",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_pineapple!_Chilli_Beans..txt"
+    }
+  ]
+}
